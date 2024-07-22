@@ -2,7 +2,7 @@
 Paper download available [here](https://github.com/user-attachments/files/16338857/COSC78.Final.Paper.docx)
 
 ### Description
-This project investigates the effectiveness of transfer learning with well-known CNN architectures to classify Alzheimer's disease from MRI scans using the OASIS Alzheimer’s Detection dataset. The architectures explored include ResNet, DenseNet, SqueezeNet, MobileNet, and Vision Transformer.
+This repository contains the code for a project which investigates the effectiveness of transfer learning with well-known CNN architectures to classify Alzheimer's disease from MRI scans using the OASIS Alzheimer’s Detection dataset. The architectures explored include ResNet, DenseNet, SqueezeNet, MobileNet, and Vision Transformer.
 
 ### Abstract
 
